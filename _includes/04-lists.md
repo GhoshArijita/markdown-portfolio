@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Some books I liked -
+* Sapiens - Yuval Noah Harari
+* The Zahir - Paulo Coelho
+* Atomic Habits - James Clear
+* Kindness – Jaime Thurston
