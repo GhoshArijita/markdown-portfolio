@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to work with _Python_ and _R_ programming languages. I love to solve **data-science** problems. I am also quite-adept with the basics of **HTML & CSS**.
